@@ -20,6 +20,6 @@ JavaScript Array and it’s methods [Click here](https://pritijaju.hashnode.dev/
 
 JavaScript Object and it’s methods [Click here]
 
-JavaScript Functions [Click here]
+JavaScript Functions [Click here](https://pritijaju.hashnode.dev/javascript-functions)
 
 Flow of code execution in JavaScript [Click here]
