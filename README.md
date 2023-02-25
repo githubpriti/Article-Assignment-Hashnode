@@ -18,8 +18,8 @@ Media Query  [Click here](https://pritijaju.hashnode.dev/all-about-media-query)
 
 JavaScript Array and it’s methods [Click here](https://pritijaju.hashnode.dev/array-cheatsheet)
 
-JavaScript Object and it’s methods [Click here]
+JavaScript Object and it’s methods [Click here](https://pritijaju.hashnode.dev/javascript-objects-and-its-methods)
 
 JavaScript Functions [Click here](https://pritijaju.hashnode.dev/javascript-functions)
 
-Flow of code execution in JavaScript [Click here]
+Flow of code execution in JavaScript [Click here](https://pritijaju.hashnode.dev/flow-of-code-execution-in-javascript)
